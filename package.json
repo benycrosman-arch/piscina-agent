@@ -1,8 +1,5 @@
 {
-"name": "help-piscinas-api",
-"version": "1.0.0",
-"private": true,
-"dependencies": {
-"@supabase/supabase-js": "^2.39.7"
-}
+  "name": "piscina-agent",
+  "version": "1.0.0",
+  "private": true
 }
